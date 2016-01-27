@@ -58,6 +58,12 @@ docs/_build/
 # PyBuilder
 target/
 
-#Ipython Notebook
+# Ipython Notebook
 .ipynb_checkpoints
 
+# Datasets 
+assignment1/cs224d/datasets/stanfordSentimentTreebank/
+.DS_Store
+
+# OS X
+assignment1/cs224d/datasets/__MACOSX/
